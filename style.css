@@ -7,7 +7,7 @@
 }
 
 .navbar-brand{
-    color: white;
+    color: white !important;
 }
 
 .nav-link{
@@ -16,4 +16,13 @@
 
 .navbar{
     background-color: white;
+}
+
+.carousel{
+    
+}
+
+
+.navbar-nav{
+    margin-left: 500px;
 }
